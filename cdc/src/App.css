@@ -1,0 +1,140 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.test {
+  background-color: #00fff7 !important;
+  color: #ff007b !important;
+}
+
+.pdfClose {
+  animation: App-logo-spin infinite 20s linear;
+}
+
+.mydropdown-row {
+  cursor: pointer;
+  text-align: start;
+  margin: 2px 0;
+}
+
+.mydropdown:empty {
+  display: none;
+}
+
+.mydropdown {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  border: none;
+  text-align: start;
+}
+
+.colorsampletest {
+  color: #05ffd59d;
+}
+
+/*  */
+
+.swiper {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-radius: 10px !important;
+}
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+  width: 571px;
+  height: 350px;
+  display: flex !important;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px !important;
+}
+
+.swiper-wrapper {
+  border-radius: 10px !important;
+}
+
+.swiper-3d
+  .swiper-slide-shadow {
+  background: transparent !important;
+}
+
+.swiper-3d .swiper-slide-shadow-left {
+  background-image: none !important;
+}
+
+.swiper-3d .swiper-slide-shadow-right {
+  background-image: none !important;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 571px;
+  height: 350px;
+  border-radius: 10px;
+}
+
+.slide-inner-text {
+  color: black;
+  text-shadow: 0px 0px 10px white;
+  font-size: 30px;
+  padding: 4px;
+}
+
+.moreInfoByEditor {
+  /* background-image: linear-gradient(to bottom, #30cfd0 0%, #330867 100%); */
+  background-color: #74ebd5;
+  background-image: linear-gradient(225deg, #74ebd5 0%, #9face6 100%);
+
+  border: none;
+  box-shadow: 2px 2px 0px 0px #00000071;
+}
+
+.moreInfoInnerByEditor {
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.9501925770308123) 0%,
+    rgba(208, 229, 255, 0.9641981792717087) 100%
+  );
+}
