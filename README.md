@@ -1,6 +1,7 @@
 # CDC Cell
 
 ## Table of Contents
+- [Preview](#Preview)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -9,6 +10,11 @@
 - [Contributing](#contributing)
 - [Project Creators](#project-creators)
 - [License](#license)
+
+## Preview
+![Screenshot 2024-03-18 120315](https://github.com/sunit-mal/CDC-Cell/assets/110469858/0578cf1b-6c66-42f2-819a-96319cbc0f54)
+![Screenshot 2024-03-18 120546](https://github.com/sunit-mal/CDC-Cell/assets/110469858/efdd640c-e143-4d53-8486-ebb185eb6970)
+![Screenshot 2024-03-18 120523](https://github.com/sunit-mal/CDC-Cell/assets/110469858/1a595f93-0bcc-487c-b508-107219ba9ab2)
 
 ## Introduction
 
